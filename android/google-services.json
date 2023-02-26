@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "952928632148",
+    "project_id": "emrcado-cd8a2",
+    "storage_bucket": "emrcado-cd8a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952928632148:android:7c68295f6a8097f0d7dcc1",
+        "android_client_info": {
+          "package_name": "com.emrcado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952928632148-j44b9ae7km07eirf56ro6poek3drgrv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_LTfx1U0f7wVQ9E-UmuszDM2mdh4FuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952928632148-j44b9ae7km07eirf56ro6poek3drgrv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
